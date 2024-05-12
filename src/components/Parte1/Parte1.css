@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+body{
+    background-color: #000;
+}
+
 .background{
     background: linear-gradient(to right, rgb(158, 10, 10), rgb(16, 16, 179));
     padding: 50px;
@@ -74,3 +78,104 @@ p{
     color: white;
     transition: 0.5s;
 }
+
+/* PARTE 2 */
+
+.parte2{
+    background-color: #000;
+    margin-top: 65px;
+    height: 600px;
+    width: 2416px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.informacao1{
+    background: linear-gradient(to right, rgb(158, 10, 10), rgb(16, 16, 179));
+    height: 450px;
+    width: 500px;
+    margin-top: 75px;
+    border-radius: 20px;
+}
+
+#informacaoP1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.icons1{
+    margin-left: 170px;
+    margin-top: 30px;
+    color: orange;
+}
+
+/* --------------------------------------------- */
+
+.informacao2{
+    background: linear-gradient(to right, rgb(158, 10, 10), rgb(16, 16, 179));
+    height: 450px;
+    width: 500px;
+    margin-top: 75px;
+    border-radius: 20px;
+}
+
+.icons2{
+    margin-left: 188px;
+    margin-top: 50px;
+    color: orange;
+}
+
+#informacaoP2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+/* --------------------------------------------- */
+
+.informacao3{
+    background: linear-gradient(to right, rgb(158, 10, 10), rgb(16, 16, 179));
+    height: 450px;
+    width: 500px;
+    margin-top: 75px;
+    border-radius: 20px;
+}
+
+.icons3{
+    margin-left: 180px;
+    margin-top: 40px;
+    color: orange;
+}
+
+#informacaoP3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+/* ------------------------------------------------ */
+
+.informacao4{
+    background: linear-gradient(to right, rgb(158, 10, 10), rgb(16, 16, 179));
+    height: 450px;
+    width: 500px;
+    margin-top: 75px;
+    border-radius: 20px;
+}
+
+.icons4{
+    margin-left: 180px;
+    margin-top: 55px;
+    color: orange;
+}
+
+#informacaoP4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+
+
